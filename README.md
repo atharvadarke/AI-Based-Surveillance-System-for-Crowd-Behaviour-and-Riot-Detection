@@ -1,1 +1,0 @@
-# AI-Based-Surveillance-System-for-Crowd-Behaviour-and-Riot-Detection
